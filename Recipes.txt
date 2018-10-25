@@ -4,3 +4,7 @@ Welcome to Johnny's kitchen
 Pasta
 Rice
 Chicken Fry
+
+
+Beans
+Pizza
